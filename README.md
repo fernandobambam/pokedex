@@ -1,6 +1,6 @@
 # How to deploy an Angular application in Azure
 ## pokedex (https://pokeferxxo.azurewebsites.net/)
-
+## Workteam (https://workteam-ferxxo.azurewebsites.net/)
 
 ## Creating an APP Service
 
